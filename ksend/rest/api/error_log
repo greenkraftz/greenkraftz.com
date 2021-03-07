@@ -1,0 +1,2 @@
+[10-Mar-2019 04:37:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ksend_admin'@'localhost' (using password: YES) in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/ksend/rest/resources/config.php on line 39
+[10-Mar-2019 04:37:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/ksend/rest/resources/newfunctions.php on line 107

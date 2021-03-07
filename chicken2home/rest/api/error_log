@@ -1,0 +1,4 @@
+[30-Apr-2019 18:48:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kishore1412'@'localhost' (using password: YES) in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/chicken2home/rest/resources/config.php on line 39
+[30-Apr-2019 18:48:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/chicken2home/rest/resources/newfunctions.php on line 107
+[30-Apr-2019 18:49:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kishore1412'@'localhost' (using password: YES) in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/chicken2home/rest/resources/config.php on line 39
+[30-Apr-2019 18:49:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/chicken2home/rest/resources/newfunctions.php on line 107

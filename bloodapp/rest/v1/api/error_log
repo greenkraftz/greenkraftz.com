@@ -1,0 +1,8 @@
+[12-Mar-2018 07:39:53 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 55
+[12-Mar-2018 07:39:53 UTC] PHP Notice:  Undefined index: username in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 55
+[12-Mar-2018 07:39:53 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 56
+[12-Mar-2018 07:39:53 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 57
+[12-Mar-2018 07:59:38 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 55
+[12-Mar-2018 07:59:38 UTC] PHP Notice:  Undefined index: username in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 55
+[12-Mar-2018 07:59:38 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 56
+[12-Mar-2018 07:59:38 UTC] PHP Notice:  Undefined index: userid in /home/greenbharathi1/public_html/bloodapp/rest/v1/api/verify_otp.php on line 57

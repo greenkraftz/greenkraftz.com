@@ -1,0 +1,8 @@
+[01-Apr-2018 01:42:46 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/request_otp.php on line 5
+[01-Apr-2018 01:44:46 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/get_address.php on line 5
+[01-Apr-2018 01:48:28 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/contact_us.php on line 5
+[04-Apr-2018 02:54:53 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/contact_us.php on line 5
+[19-Apr-2018 02:21:36 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/get_products.php on line 5
+[04-Jun-2018 03:06:27 UTC] PHP Notice:  Undefined index: appkey in /home/greenbharathi1/public_html/breakfast2home/rest/v1/api/get_products.php on line 5
+[07-Jan-2019 16:54:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kishore1412'@'localhost' (using password: YES) in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/breakfast2home/rest/v1/resources/config.php on line 44
+[07-Jan-2019 16:54:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/u9mmrmaa7xdc/public_html/greenkraftz.com/breakfast2home/rest/v1/resources/newfunctions.php on line 107
